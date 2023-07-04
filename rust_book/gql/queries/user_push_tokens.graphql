@@ -1,0 +1,5 @@
+query UserPushTokens($acsId: ID!) {
+    userPushTokens(acsId: $acsId) {
+        token
+    }
+}

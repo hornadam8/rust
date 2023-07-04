@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/branches" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/enums" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fibo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/guessing_game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello-rust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/matching" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/options" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ownership" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rectangles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rectangles2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slices" vcs="Git" />
+  </component>
+</project>

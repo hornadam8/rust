@@ -1,0 +1,10 @@
+/Users/AdamHorn@ADT.COM/Desktop/repos/rust/other_learnings/caching/target/debug/deps/futures_task-56305a0baecb8ad9.rmeta: /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/lib.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/spawn.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/future_obj.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/noop_waker.rs
+
+/Users/AdamHorn@ADT.COM/Desktop/repos/rust/other_learnings/caching/target/debug/deps/libfutures_task-56305a0baecb8ad9.rlib: /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/lib.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/spawn.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/future_obj.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/noop_waker.rs
+
+/Users/AdamHorn@ADT.COM/Desktop/repos/rust/other_learnings/caching/target/debug/deps/futures_task-56305a0baecb8ad9.d: /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/lib.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/spawn.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/future_obj.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/noop_waker.rs
+
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/lib.rs:
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/spawn.rs:
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/future_obj.rs:
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.28/src/noop_waker.rs:
