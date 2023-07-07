@@ -5,8 +5,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/other_learnings/caching/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/branches/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/vectors/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/other_learnings/caching/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/branches/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/vectors/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

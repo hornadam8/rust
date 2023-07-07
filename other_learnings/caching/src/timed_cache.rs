@@ -5,13 +5,13 @@ use cached::{
     Cached, SizedCache
 };
 
-// a timed cache, currently I like this for jwt but I'm sure there are other good uses
+// a timed cache, currently I like this for JWTs but I'm sure there are other good uses
 
 #[cached(time = 1)] // cache jwt for 1 second
 pub fn get_jwt() -> String {
     println!("JWT expired, generating new one");
 
-    println!("simulating jwt generation call time");
+    println!("simulating jwt generation time");
     let jwt_time = time::Duration::from_millis(66);
     thread::sleep(jwt_time);
 
