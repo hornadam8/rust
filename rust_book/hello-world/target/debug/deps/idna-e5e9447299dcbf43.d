@@ -1,0 +1,10 @@
+/Users/AdamHorn@ADT.COM/Desktop/repos/rust/rust_book/hello-world/target/debug/deps/idna-e5e9447299dcbf43.rmeta: /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/AdamHorn@ADT.COM/Desktop/repos/rust/rust_book/hello-world/target/debug/deps/libidna-e5e9447299dcbf43.rlib: /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/AdamHorn@ADT.COM/Desktop/repos/rust/rust_book/hello-world/target/debug/deps/idna-e5e9447299dcbf43.d: /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs
+
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/lib.rs:
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/punycode.rs:
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46.rs:
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/idna-0.4.0/src/uts46_mapping_table.rs:

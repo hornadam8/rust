@@ -6,9 +6,15 @@
       <sourceFolder url="file://$MODULE_DIR$/other_learnings/caching/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/branches/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/other_learnings/coupon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/other_learnings/crypto/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/other_learnings/risp/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/other_learnings/caching/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/branches/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/vectors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/other_learnings/coupon/target" />
+      <excludeFolder url="file://$MODULE_DIR$/other_learnings/crypto/target" />
+      <excludeFolder url="file://$MODULE_DIR$/other_learnings/risp/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -1,0 +1,10 @@
+/Users/AdamHorn@ADT.COM/Desktop/repos/rust/rust_book/hello-world/target/debug/deps/lock_api-860f25e60683e6a3.rmeta: /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/lib.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/mutex.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/remutex.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/rwlock.rs
+
+/Users/AdamHorn@ADT.COM/Desktop/repos/rust/rust_book/hello-world/target/debug/deps/liblock_api-860f25e60683e6a3.rlib: /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/lib.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/mutex.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/remutex.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/rwlock.rs
+
+/Users/AdamHorn@ADT.COM/Desktop/repos/rust/rust_book/hello-world/target/debug/deps/lock_api-860f25e60683e6a3.d: /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/lib.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/mutex.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/remutex.rs /Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/rwlock.rs
+
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/lib.rs:
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/mutex.rs:
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/remutex.rs:
+/Users/AdamHorn@ADT.COM/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.10/src/rwlock.rs:

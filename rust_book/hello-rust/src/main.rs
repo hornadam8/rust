@@ -1,11 +1,26 @@
-use std::io;
-
 fn main() {
-    println!("Hello from main");
-    indexer();
+    println!("Hello, World");
+    //indexer();
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 fn indexer(){
+    use std::io;
     let a = [1,2,3,4,5];
     println!("Please enter an array index.");
 
