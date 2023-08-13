@@ -1,0 +1,1 @@
+{"rustc":7026624682662114238,"features":"[\"std\"]","target":9102904644320696625,"profile":893574402682651642,"path":11800868895699767906,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-wasi/release/.fingerprint/arrayvec-fc79072869b4283a/dep-lib-arrayvec"}}],"rustflags":[],"metadata":5019420986621020735,"config":2202906307356721367,"compile_kind":16489420942494921214}

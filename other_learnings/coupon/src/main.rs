@@ -3,9 +3,9 @@ use std::time::{Duration, SystemTime};
 
 fn main() {
     let (pieces, steps) = get_coupon(&mut vec![]); // getting steps and pieces in untimed solo run first
-    let mut times: Vec<Duration> = Vec::with_capacity(10000);
+    let mut times: Vec<Duration> = Vec::with_capacity(10_000);
     let start = SystemTime::now();
-    for _ in 1..10001 {
+    for _ in 1..10_001 {
         let (_,_) = get_coupon(&mut times);
     }
     let elapsed = start.elapsed().unwrap();

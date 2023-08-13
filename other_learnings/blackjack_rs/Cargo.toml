@@ -1,0 +1,19 @@
+[package]
+name = "blackjack_rs"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+rust_decimal = "1.31.0"
+serde = {version = "1.0.164", features = ["derive"]}
+text_io = "0.1.12"
+
+[profile.release]
+strip = true
+opt-level = 3
+lto = true
+codegen-units = 1
+overflow-checks = false

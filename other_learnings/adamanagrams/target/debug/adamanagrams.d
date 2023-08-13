@@ -1,0 +1,1 @@
+/Users/adamhorn/repos/rust/other_learnings/adamanagrams/target/debug/adamanagrams: /Users/adamhorn/repos/rust/other_learnings/adamanagrams/src/indices.rs /Users/adamhorn/repos/rust/other_learnings/adamanagrams/src/main.rs

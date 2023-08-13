@@ -1,0 +1,1 @@
+/Users/adamhorn/repos/rust/other_learnings/adamanagrams/target/wasm32-wasi/release/adamanagrams.wasm: /Users/adamhorn/repos/rust/other_learnings/adamanagrams/src/indices.rs /Users/adamhorn/repos/rust/other_learnings/adamanagrams/src/main.rs

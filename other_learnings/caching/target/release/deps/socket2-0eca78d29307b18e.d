@@ -1,0 +1,11 @@
+/Users/adamhorn/repos/rust/other_learnings/caching/target/release/deps/socket2-0eca78d29307b18e.rmeta: /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/unix.rs
+
+/Users/adamhorn/repos/rust/other_learnings/caching/target/release/deps/libsocket2-0eca78d29307b18e.rlib: /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/unix.rs
+
+/Users/adamhorn/repos/rust/other_learnings/caching/target/release/deps/socket2-0eca78d29307b18e.d: /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/unix.rs
+
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/lib.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockaddr.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/socket.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sockref.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.4.9/src/sys/unix.rs:
