@@ -1,0 +1,11 @@
+/Users/adamhorn/repos/rust/other_learnings/grpc/target/debug/deps/matchit-263b9760c74c4c28.rmeta: /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/lib.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/error.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/params.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/router.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/tree.rs
+
+/Users/adamhorn/repos/rust/other_learnings/grpc/target/debug/deps/libmatchit-263b9760c74c4c28.rlib: /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/lib.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/error.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/params.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/router.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/tree.rs
+
+/Users/adamhorn/repos/rust/other_learnings/grpc/target/debug/deps/matchit-263b9760c74c4c28.d: /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/lib.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/error.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/params.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/router.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/tree.rs
+
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/lib.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/error.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/params.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/router.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/tree.rs:

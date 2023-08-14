@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/other_learnings/use_priv_dep/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/other_learnings/blackjack/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/other_learnings/blackjack_rs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/other_learnings/grpc/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/other_learnings/caching/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/branches/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/vectors/target" />
@@ -27,6 +28,7 @@
       <excludeFolder url="file://$MODULE_DIR$/other_learnings/use_priv_dep/target" />
       <excludeFolder url="file://$MODULE_DIR$/other_learnings/blackjack/target" />
       <excludeFolder url="file://$MODULE_DIR$/other_learnings/blackjack_rs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/other_learnings/grpc/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

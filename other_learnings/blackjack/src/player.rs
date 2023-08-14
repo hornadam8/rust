@@ -123,7 +123,7 @@ impl Player {
         print_if("\n------------------------------------------------------------------");
         print_if("The dealer is distracted momentarily");
         print_if(
-            format!("\n\nWould you like to peek at the next couple of cards? (y/n)\n\n    {chance}% chance of success\n\n ").as_str()
+            format!("\n\nWould you like to peek at the next few cards? (y/n)\n\n    {chance}% chance of success\n\n ").as_str()
         );
         let input: String = read!("{}\n");
         if input == "y" {

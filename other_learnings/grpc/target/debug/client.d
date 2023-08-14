@@ -1,0 +1,1 @@
+/Users/adamhorn/repos/rust/other_learnings/grpc/target/debug/client: /Users/adamhorn/repos/rust/other_learnings/grpc/build.rs /Users/adamhorn/repos/rust/other_learnings/grpc/proto /Users/adamhorn/repos/rust/other_learnings/grpc/./proto/store.proto /Users/adamhorn/repos/rust/other_learnings/grpc/src/client.rs /Users/adamhorn/repos/rust/other_learnings/grpc/src/store.rs
