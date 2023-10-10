@@ -16,6 +16,13 @@
       <sourceFolder url="file://$MODULE_DIR$/other_learnings/blackjack/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/other_learnings/blackjack_rs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/other_learnings/grpc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/other_learnings/bmp/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/other_learnings/nav_tree/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/other_learnings/rubiks/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/other_learnings/collatz_mapper/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/other_learnings/int_substring/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/fibo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/other_learnings/autocomplete/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/other_learnings/caching/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/branches/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/vectors/target" />
@@ -29,6 +36,13 @@
       <excludeFolder url="file://$MODULE_DIR$/other_learnings/blackjack/target" />
       <excludeFolder url="file://$MODULE_DIR$/other_learnings/blackjack_rs/target" />
       <excludeFolder url="file://$MODULE_DIR$/other_learnings/grpc/target" />
+      <excludeFolder url="file://$MODULE_DIR$/other_learnings/bmp/target" />
+      <excludeFolder url="file://$MODULE_DIR$/other_learnings/nav_tree/target" />
+      <excludeFolder url="file://$MODULE_DIR$/other_learnings/rubiks/target" />
+      <excludeFolder url="file://$MODULE_DIR$/other_learnings/collatz_mapper/target" />
+      <excludeFolder url="file://$MODULE_DIR$/other_learnings/int_substring/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/fibo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/other_learnings/autocomplete/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

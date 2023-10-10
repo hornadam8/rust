@@ -1,79 +1,79 @@
 
 
- Name: CH33P0B0T-3000
-Current Funds: 10003.9
-Hands Played: 18
-Blackjacks: 2
-Dealer Blackjacks: 0
-Highest Wager: $6.4
-Max Funds: $10004.1
-Winnings: $17.9
-Hands Won: 9
-Hands Lost: 10
-Hands Pushed: 1
-Win Percentage: 47.368421052631575%
-
  Name: Edgar A. Poe
-Current Funds: 9596.3
-Hands Played: 17
+Current Funds: 9900
+Hands Played: 1
 Blackjacks: 0
 Dealer Blackjacks: 0
 Highest Wager: $100
-Max Funds: $9999
-Winnings: $1353.96
-Hands Won: 7
-Hands Lost: 8
-Hands Pushed: 2
-Win Percentage: 46.666666666666664%
+Max Funds: $9900
+Winnings: $0
+Hands Won: 0
+Hands Lost: 1
+Hands Pushed: 0
+Win Percentage: 0%
 
- Name: Ray "Rainman" Babbitt
-Current Funds: 10187.03
-Hands Played: 17
-Blackjacks: 2
+ Name: CH33P0B0T-3000
+Current Funds: 9999.9
+Hands Played: 1
+Blackjacks: 0
 Dealer Blackjacks: 0
-Highest Wager: $102.91
-Max Funds: $10290.96
-Winnings: $2096.39
-Hands Won: 9
-Hands Lost: 8
-Hands Pushed: 2
-Win Percentage: 52.94117647058824%
-
- Name: Danny Ocean
-Current Funds: 10542.33
-Hands Played: 17
-Blackjacks: 1
-Dealer Blackjacks: 0
-Highest Wager: $1089
-Max Funds: $10890
-Winnings: $14205.77
-Hands Won: 7
-Hands Lost: 7
-Hands Pushed: 4
-Win Percentage: 50%
+Highest Wager: $0.1
+Max Funds: $9999.9
+Winnings: $0
+Hands Won: 0
+Hands Lost: 1
+Hands Pushed: 0
+Win Percentage: 0%
 
  Name: CH33P0B0T-3000-P
-Current Funds: 10000.5
-Hands Played: 19
+Current Funds: 9999.9
+Hands Played: 1
 Blackjacks: 0
 Dealer Blackjacks: 0
-Highest Wager: $3.2
-Max Funds: $10000.7
-Winnings: $9.2
-Hands Won: 8
-Hands Lost: 10
-Hands Pushed: 1
-Win Percentage: 44.44444444444444%
+Highest Wager: $0.1
+Max Funds: $9999.9
+Winnings: $0
+Hands Won: 0
+Hands Lost: 1
+Hands Pushed: 0
+Win Percentage: 0%
 
  Name: Adam
-Current Funds: 9650
-Hands Played: 19
-Blackjacks: 1
+Current Funds: 9900
+Hands Played: 1
+Blackjacks: 0
 Dealer Blackjacks: 0
 Highest Wager: $100
-Max Funds: $10100
-Winnings: $1450
-Hands Won: 8
-Hands Lost: 11
-Hands Pushed: 1
-Win Percentage: 42.10526315789473%
+Max Funds: $9900
+Winnings: $0
+Hands Won: 0
+Hands Lost: 1
+Hands Pushed: 0
+Win Percentage: 0%
+
+ Name: Danny Ocean
+Current Funds: 9000
+Hands Played: 1
+Blackjacks: 0
+Dealer Blackjacks: 0
+Highest Wager: $1000
+Max Funds: $9000
+Winnings: $0
+Hands Won: 0
+Hands Lost: 1
+Hands Pushed: 0
+Win Percentage: 0%
+
+ Name: Ray "Rainman" Babbitt
+Current Funds: 9900
+Hands Played: 1
+Blackjacks: 0
+Dealer Blackjacks: 0
+Highest Wager: $100
+Max Funds: $9900
+Winnings: $0
+Hands Won: 0
+Hands Lost: 1
+Hands Pushed: 0
+Win Percentage: 0%

@@ -1,4 +1,4 @@
 fn main() {
-    let s = test - lib::hello();
+    let s = test_lib::hello();
     println!("Hello, world!");
 }

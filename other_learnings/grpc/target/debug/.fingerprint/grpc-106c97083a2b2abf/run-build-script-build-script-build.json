@@ -1,0 +1,1 @@
+{"rustc":5157826117285742074,"features":"","target":0,"profile":0,"path":0,"deps":[[14133337051394472210,"build_script_build",false,3009093714212339703]],"local":[{"RerunIfChanged":{"output":"debug/build/grpc-106c97083a2b2abf/output","paths":["./proto/store.proto","proto"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
