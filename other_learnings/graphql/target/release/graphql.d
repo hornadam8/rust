@@ -1,0 +1,1 @@
+/Users/adamhorn/repos/rust/other_learnings/graphql/target/release/graphql: /Users/adamhorn/repos/rust/other_learnings/graphql/src/main.rs /Users/adamhorn/repos/rust/other_learnings/graphql/src/routes/mod.rs

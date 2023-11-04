@@ -1,0 +1,12 @@
+/Users/adamhorn/repos/rust/other_learnings/graphql/target/debug/deps/uuid-579e76eb119390fd.rmeta: /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/lib.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/mod.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/error.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/error.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/mod.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/error.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/prelude.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/mod.rs
+
+/Users/adamhorn/repos/rust/other_learnings/graphql/target/debug/deps/uuid-579e76eb119390fd.d: /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/lib.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/mod.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/error.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/error.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/mod.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/error.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/prelude.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/mod.rs
+
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/lib.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/mod.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/error.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/error.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/mod.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/error.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/prelude.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/mod.rs:

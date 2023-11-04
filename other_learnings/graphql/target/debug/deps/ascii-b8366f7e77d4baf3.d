@@ -1,0 +1,11 @@
+/Users/adamhorn/repos/rust/other_learnings/graphql/target/debug/deps/ascii-b8366f7e77d4baf3.rmeta: /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/lib.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_char.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_str.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_string.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/free_functions.rs
+
+/Users/adamhorn/repos/rust/other_learnings/graphql/target/debug/deps/libascii-b8366f7e77d4baf3.rlib: /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/lib.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_char.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_str.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_string.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/free_functions.rs
+
+/Users/adamhorn/repos/rust/other_learnings/graphql/target/debug/deps/ascii-b8366f7e77d4baf3.d: /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/lib.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_char.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_str.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_string.rs /Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/free_functions.rs
+
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/lib.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_char.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_str.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/ascii_string.rs:
+/Users/adamhorn/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-0.9.3/src/free_functions.rs:
